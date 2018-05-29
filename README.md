@@ -12,6 +12,9 @@ Downloaden doe je vanaf de volgende link https://github.com/MarcMeer/spock-works
 
 Indien je geen github account heb, kies dan niet voor Github maar gewoon voor Git.
 
+## Voer de tests in hallo-spock uit om zeker te weten dat jouw computer goed geinstalleerd is voor de workshop
+In deze repository is een hallo-spock project opgenomen. Deze spint een simpele Spring Boot applicatie op welke een REST end point heeft die een boodschap terug geeft. De applicatie is voorzien van Spock test code of dit alles goed werkt. Indien deze test slagen is jouw computer dus goed geinstalleerd om de workshop uit te kunnen voeren. Verder zie je el gelijk een beetje hoe Spock tests werken.
+
 ## Tests uitvoeren in maven
 ga naar de folder hallo-spock
 >cd hallo-spock
