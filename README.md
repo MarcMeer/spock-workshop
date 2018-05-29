@@ -1,4 +1,16 @@
 # spock-workshop
+## clone dit project
+Open een GIT command prompt (in Windows de GIT bash op de mac zou een terminal ook moeten werken)
+ga naar de folder waar je de git source wilt plaatsen
+geef het volgende commando
+>git clone https://github.com/MarcMeer/spock-workshop.git
+
+Je kunt de source ook downloaden of clonen in IntelliJ. In IntelliJ clone je door te kiezen voor Checkout from Version Control en dan de volgende Link op te geven 
+>https://github.com/MarcMeer/spock-workshop.git 
+
+Downloaden doe je vanaf de volgende link https://github.com/MarcMeer/spock-workshop/archive/master.zip
+
+Indien je geen github account heb, kies dan niet voor Github maar gewoon voor Git.
 
 ## Tests uitvoeren in maven
 ga naar de folder hallo-spock
