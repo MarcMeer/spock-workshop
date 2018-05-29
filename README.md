@@ -20,7 +20,19 @@ Indien je geen projecten heb geopend in IntelliJ, krijg je onderstaand scherm te
 ![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2008.13.17%20PM.png)
 ![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/image-5.png)
 
+## De tests uitvoeren in IntelliJ
+Indien je bovenstaande instructies heb opgevolgd is het project geopend in IntelliJ. Je ziet onderstaande scherm verschijnen
+![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2007.52.27%20PM.png)
 
-Zie instructies met opmaak in README.html
+Klap de src en dan test folder open en markeer groovy als test root source (zie afbeelding hieronder), door met de rechter muis toets op groovy te klikken en te kiezen voor Mark directory as > test sources root
+![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2007.55.19%20PM.png)
 
-![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2007.59.49%20PM.png?raw=true)
+De groovy folder moet nu groen geworden zijn (zie afbeelding hieronder)
+![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2007.55.35%20PM.png)
+
+Voer de test nu uit door met de rechter muis toets op groovy te klikken en te kiezen voor 'Run all tests'
+![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2007.59.49%20PM.png)
+
+De test worden uitgevoerd en het resultaat hiervan verschijnt onderin het scherm
+![picture](https://github.com/MarcMeer/spock-workshop/blob/master/img/2018-05-29%2008.02.01%20PM.png)
+
