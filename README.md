@@ -1,5 +1,17 @@
 # spock-workshop
-## clone dit project
+
+Deze repository bevat de bron bestanden van de Spock workshop van woensdag 6 juni.
+
+Er zijn de volgende projecten in deze repository:
+
+folder                          | omschrijving
+---                             | ---
+demo2-datatable-met-html-report | demonstratie van een simpele spock test. De test resultaten worden in een html raport geplaatst
+opdracht-1en2                   | de eerste twee opdrachten van de workshop
+opdracht-3-later                | de laatste opdrachten van de workshop
+uitwerkingen                    | de uiterkingen van de verschillende opdrachten
+
+## hoe clone je dit project?
 Open een GIT command prompt (in Windows de GIT bash op de mac zou een terminal ook moeten werken)
 ga naar de folder waar je de git source wilt plaatsen
 geef het volgende commando
